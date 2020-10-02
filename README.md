@@ -1,3 +1,4 @@
-# second
+# This is a repo to greetings people in all languages
 
-hello there
+Hello There - English
+Hajimemashite - Japan
